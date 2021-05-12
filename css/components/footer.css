@@ -1,0 +1,24 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: rgba(121, 28, 37, 0.8);
+}
+
+.footer a {
+  font-size: 30px;
+  color:  #cfb7c1;
+  transition: 1s ease;
+}
+
+.footer a:hover {
+  color:  #850B20;
+  transition: 1s ease;
+}
+
+.footer p {
+  color: white;
+}
+
+.footer .fas {
+  color: #850B20;
+}
